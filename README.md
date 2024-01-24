@@ -1,5 +1,5 @@
 # What-is-Data-Science
-What is Data Science
+
 Data science is a multidisciplinary field that uses scientific methods, processes, algorithms, and systems to extract insights and knowledge from structured and unstructured data. It combines elements from statistics, mathematics, computer science, and domain expertise to analyze and interpret complex data sets. The goal of data science is to gain valuable insights, make informed decisions, and solve problems across various industries.
 Data science is applicable in various domains, including finance, healthcare, marketing, e-commerce, social media, and more. Professionals working in data science roles, often referred to as data scientists, possess a combination of technical skills, domain knowledge, and the ability to communicate findings to non-technical stakeholders.
 The data science workflow typically involves defining a problem, collecting and preparing data, exploring and analyzing data, building and evaluating models, and finally, deploying insights for decision-making. The field continues to evolve as new technologies and methodologies emerge, making it a dynamic and exciting area of study and application.
