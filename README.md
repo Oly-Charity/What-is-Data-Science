@@ -18,40 +18,40 @@ Tools in Data Science
 The tools cater to different stages of the data science workflow, from data exploration and preprocessing to modeling, analysis, and visualization. The choice of tools depends on the specific requirements and preferences of data scientists and analysts.
 Data science involves the use of various tools and technologies to perform tasks ranging from data collection and cleaning to analysis and visualization. The choice of tools often depends on the specific tasks, preferences, and the nature of the data being analyzed. Here are some commonly used tools in data science:
 1.	Programming Languages:
-o	Python: Widely used for data manipulation, analysis, and machine learning. Popular libraries include NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, and PyTorch.
-o	R: Particularly used for statistical analysis and visualization. R has a rich ecosystem of packages for data science.
+Python: Widely used for data manipulation, analysis, and machine learning. Popular libraries include NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, and PyTorch.
+R: Particularly used for statistical analysis and visualization. R has a rich ecosystem of packages for data science.
 2.	Integrated Development Environments (IDEs):
-o	Jupyter Notebooks: Interactive and web-based notebooks for data exploration, analysis, and visualization. Supports multiple languages, including Python and R.
-o	RStudio: An integrated development environment for R, providing tools for data analysis, visualization, and package development.
+Jupyter Notebooks: Interactive and web-based notebooks for data exploration, analysis, and visualization. Supports multiple languages, including Python and R.
+RStudio: An integrated development environment for R, providing tools for data analysis, visualization, and package development.
 3.	Data Cleaning and Preprocessing:
-o	OpenRefine: A tool for cleaning and transforming messy data.
-o	Trifacta: Provides a user-friendly interface for cleaning and structuring messy data.
+OpenRefine: A tool for cleaning and transforming messy data.
+Trifacta: Provides a user-friendly interface for cleaning and structuring messy data.
 4.	Data Visualization:
-o	Tableau: Powerful for creating interactive and shareable dashboards.
-o	Matplotlib and Seaborn: Python libraries for static visualizations.
-o	Plotly: A versatile library for creating interactive visualizations in Python, R, and JavaScript.
+Tableau: Powerful for creating interactive and shareable dashboards.
+Matplotlib and Seaborn: Python libraries for static visualizations.
+Plotly: A versatile library for creating interactive visualizations in Python, R, and JavaScript.
 5.	Database Management Systems (DBMS):
-o	SQL (Structured Query Language): Essential for querying and managing relational databases.
-o	MySQL, PostgreSQL, SQLite: Popular open-source relational database management systems.
-o	MongoDB: A NoSQL database for handling unstructured and semi-structured data.
+SQL (Structured Query Language): Essential for querying and managing relational databases.
+MySQL, PostgreSQL, SQLite: Popular open-source relational database management systems.
+MongoDB: A NoSQL database for handling unstructured and semi-structured data.
 6.	Big Data Technologies:
-o	Hadoop: Framework for distributed storage and processing of large datasets.
-o	Apache Spark: A fast and general-purpose cluster-computing framework for big data processing.
+Hadoop: Framework for distributed storage and processing of large datasets.
+Apache Spark: A fast and general-purpose cluster-computing framework for big data processing.
 7.	Machine Learning:
-o	Scikit-Learn: A comprehensive library for classical machine learning algorithms in Python.
-o	TensorFlow and PyTorch: Libraries for building and training deep learning models.
+Scikit-Learn: A comprehensive library for classical machine learning algorithms in Python.
+TensorFlow and PyTorch: Libraries for building and training deep learning models.
 8.	Version Control:
-o	Git: Essential for tracking changes in code and collaborating on projects.
-o	GitHub and GitLab: Platforms for hosting and sharing Git repositories.
+Git: Essential for tracking changes in code and collaborating on projects.
+GitHub and GitLab: Platforms for hosting and sharing Git repositories.
 9.	Statistical Analysis:
-o	R and RStudio: Widely used for statistical modeling and analysis.
-o	SPSS: Software for statistical analysis and data management.
+R and RStudio: Widely used for statistical modeling and analysis.
+SPSS: Software for statistical analysis and data management.
 10.	Text Editors:
-o	Sublime Text, Visual Studio Code: Lightweight text editors with support for various programming languages.
+Sublime Text, Visual Studio Code: Lightweight text editors with support for various programming languages.
 11.	Notebook Extensions and Add-ons:
-o	Jupyter Extensions: Enhance Jupyter Notebooks with additional features and functionalities.
+Jupyter Extensions: Enhance Jupyter Notebooks with additional features and functionalities.
 12.	Cloud Platforms:
-o	Google Colab, Kaggle: Cloud-based platforms for running Jupyter Notebooks with access to GPU resources.
+Google Colab, Kaggle: Cloud-based platforms for running Jupyter Notebooks with access to GPU resources.
 
 
 
